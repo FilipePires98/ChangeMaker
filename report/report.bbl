@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{trab1}
+Joaquim Madeira,
+\newblock ``1o trabalho - estratégias de desenvolvimento de algoritmos'',
+\newblock \url{https://elearning.ua.pt/mod/resource/view.php?id=620595}.
+
+\bibitem{mit}
+Massachusetts~Institute of~Technology,
+\newblock ``Introduction to algorithms - the knapsack problem'',
+\newblock
+  \url{https://courses.csail.mit.edu/6.006/fall11/rec/rec21_knapsack.pdf}.
+
+\bibitem{9df}
+Wikipedia,
+\newblock ``Nine-dart finish'',
+\newblock \url{https://en.wikipedia.org/wiki/Nine_dart_finish}.
+
+\bibitem{g4g}
+Mohammad Sarker,
+\newblock ``Understanding the coin change problem'',
+\newblock \url{https://www.geeksforgeeks.org/understanding-the}
+  \url{-coin-change-problem-with-dynamic-programming/}.
+
+\bibitem{time}
+Python~Software Foundation,
+\newblock ``15.3. time'',
+\newblock \url{https://docs.python.org/2/library/time.html}.
+
+\bibitem{planetcalc}
+Planetcalc,
+\newblock ``Function approximation with regression analysis'',
+\newblock \url{https://planetcalc.com/5992/}.
+
+\bibitem{desmos}
+Desmos,
+\newblock ``Graphical calculator'',
+\newblock \url{https://www.desmos.com/calculator}.
+
+\bibitem{mpl}
+NumFOCUS,
+\newblock ``Matplotlib user's guide'',
+\newblock \url{https://matplotlib.org/users/index.html}.
+
+\end{thebibliography}

@@ -1,0 +1,12 @@
+
+
+
+Amount: 187
+Currency: [1, 2, 5, 10, 20, 50, 100]
+Recursive Solution:
+[6, [100, 50, 20, 10, 5, 2], 2046405, 2.46101]
+Recursive Solution w/ Memoization:
+[6, [100, 50, 20, 10, 5, 2], 445, 0.00083]
+Dynamic Programming Solution:
+[6, [100, 50, 20, 10, 5, 2], 328, 0.00036] 
+
