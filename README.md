@@ -20,6 +20,10 @@ The implemented algorithms were 3, and they all follow the same base strategy to
 
 ## Data Visualization
 
+<img src="https://github.com/FilipePires98/ChangeMaker/blob/main/results/elaborate/tCMP_elaborate_results_plot_%5B1%205%5D.png" width="540px">
+
+Plot presenting the evolution of the (average) execution times of the 3 algorithms for the same input change amount, suggesting that the dynamic-programming-based implementation is for efficient that the others.
+
 ## Instructions to Run
 
 ```console
@@ -30,6 +34,5 @@ $ python3 TheChangeMakingProblem.py
 
 ## Author
 
-The author of the code and conducted study is Filipe Pires.
-
-For further information, please read the [report]() or contact me at filipesnetopires@ua.pt.
+I, Filipe Pires, am the only author of the code and study conducted.
+For further information, please read the [report](https://github.com/FilipePires98/ChangeMaker/blob/main/report/report.pdf) or contact me at filipesnetopires@ua.pt.
