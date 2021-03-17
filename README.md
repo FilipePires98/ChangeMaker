@@ -34,5 +34,6 @@ $ python3 TheChangeMakingProblem.py
 
 ## Author
 
-I, Filipe Pires, am the only author of the code and study conducted.
-For further information, please read the [report](https://github.com/FilipePires98/ChangeMaker/blob/main/report/report.pdf) or contact me at filipesnetopires@ua.pt.
+The author of this repository is Filipe Pires, and the project was developed for the Advanced Algorithms Course of the master's degree in Informatics Engineering of the University of Aveiro.
+
+For further information read the [report](https://github.com/FilipePires98/ChangeMaker/blob/main/report/report.pdf) or contact me at filipesnetopires@ua.pt.
