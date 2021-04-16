@@ -1,6 +1,11 @@
 # ChangeMaker
 A study on ’The Change-Making Problem’
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Made%20With-Python-blue)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 # Description
 
 It is widely known that many computationally-demanding problems require more efficient solutions than to simply search exaustively for the answers.
